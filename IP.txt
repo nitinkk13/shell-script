@@ -1,0 +1,4 @@
+101:userA:bash
+102:userB:csh
+103:userC:bash
+104:userD:ksh

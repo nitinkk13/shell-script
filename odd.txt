@@ -1,0 +1,7 @@
+101,ram,sales,pune,1000
+603,anu,hr,hyd,3000
+705,vijay,prod,chennai,5000
+907,rahul,HR,mumbai,16500
+509,sonu,sales,pune,1000
+811,krasti,hr,hyd,3000
+113,biju,prod,chennai,5000

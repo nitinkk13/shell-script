@@ -1,0 +1,3 @@
+101	itemA	10200Rs
+102	itemB	12900Rs
+103	itemC	16500Rs

@@ -1,0 +1,10 @@
+BEGIN{
+FS=":"
+}
+{
+total=0
+split($2,a,",")
+  for(x in a){
+	prinf "Item Code: " $1 \t "Item Name: " $2
+}
+}

@@ -1,0 +1,7 @@
+202,kumar,prod,bglore,2000
+404,xerox,sales,mumbai,24000
+906,raj,HR,mumbai,16500
+508,monu,sales,pune,1000
+310,nonu,prod,bglore,2000
+112,dhondu,sales,mumbai,24000
+114,nitin,HR,mumbai,16500

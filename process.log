@@ -1,0 +1,8 @@
+
+UID        PID  PPID  C STIME TTY          TIME CMD
+
+nitinkk   3657  3656  0 10:01 pts/1    00:00:00 -bash
+
+nitinkk  10471  3657  0 10:22 pts/1    00:00:00 ps -f
+
+root   3659  3658  0 10:31 pts/1    00:00:00 -ksh

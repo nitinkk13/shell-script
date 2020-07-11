@@ -1,0 +1,7 @@
+sh
+bash
+csh
+zsh
+tcsh
+expect
+psh
