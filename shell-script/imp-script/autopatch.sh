@@ -1,8 +1,7 @@
 #!/bin/bash
 
 ###############################################################################
-# Property of Oracle USA, Inc.
-# Oracle Confidential - Do not share outside of Oracle.
+# Confidential - Do not share outside.
 # Copyright 2020
 ###############################################################################
 
@@ -17,7 +16,7 @@
 #               mode: one of kernel, user, or yum
 #               week: which week of the month to run (1-5)
 #
-# Contributors: dennis.haag@oracle.com, jim.uriate@oracle.com
+# Contributors: Nitin Kumar, nitinchoudhary13@ymail.com
 #
 # Possible Improvements:
 #       Diskspace check on root.
